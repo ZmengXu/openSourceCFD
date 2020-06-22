@@ -1,3 +1,6 @@
 [submodule "SPlisHSPlasH/CODE"]
 	path = SPlisHSPlasH/CODE
 	url = https://github.com/InteractiveComputerGraphics/SPlisHSPlasH.git
+[submodule "GVDB-VOXELS/CODE"]
+	path = GVDB-VOXELS/CODE
+	url = https://github.com/NVIDIA/gvdb-voxels
